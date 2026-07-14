@@ -8,7 +8,7 @@ A clean, modern, and highly responsive Body Mass Index (BMI) Calculator web appl
 
 ![Screenshot](./media/Screenshot.png)
 
-[Live Demo]()
+[Live Demo](https://nurscodee.github.io/bmi-calculator/)
 
 ## ✨ Features
 
